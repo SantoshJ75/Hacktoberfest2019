@@ -32,7 +32,7 @@
     },
     {
         "title": "git branch",
-        "description": "The git branch command lists all local branches int the current repository."
+        "description": "The git branch command lists all local branches into the current repository."
     }
 
 ]
